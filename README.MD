@@ -1,9 +1,10 @@
 ### This is the repo we will use for the phase 1 lectures
 
+Daily Assignments: https://docs.google.com/document/d/1awMuvSSNzHoSK6ymHS-iQFV1V6DLo6ZIcGmkoGqEnEY/edit
 
 Daily concept targets
 
-### Day 1 
+### Day 1 Functions & Scope
 ### Lecture Topics
 
 - Declaring vs. Invoking JS functions
@@ -13,7 +14,7 @@ Daily concept targets
 - Callback Functions 
 - Higher Order Functions
 
-### Day 2
+### Day 2 DOM Manipulation
 ### Lecture Topics
 
 - .querySelector(), .querySelectorAll() 
@@ -25,14 +26,14 @@ Daily concept targets
 - index.html
 - index.js 
 
-### Day 3
+### Day 3 DOM Events
 ### Lecture Topics
 - HTML forms
 - .preventDefault()
 - .addEventListener()
 - onSubmit()
 
-### Day 4
+### Day 4 Communicating With The Server
 ### Lecture Topics
 - HTTP Verbs 
 - Client Side vs. Server Side
@@ -40,17 +41,17 @@ Daily concept targets
 - .then()
 - Asynchronous Functions
 
-### Day 5
+### Day 5 POST Requests
 ### Lecture Topics
 - POST 
 - Pessimistic vs. Optimistic Rendering
 
-### Day 6
+### Day 6 PATCH & DELETE Events
 #### Lecture Topics
 - PATCH
 - DELETE
 
-### Day 7
+### Day 7 Communicating With External APIs
 ### Lecture Topics
 - External APIs
 - Working With API Keys
